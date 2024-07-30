@@ -1,9 +1,9 @@
 {
-  "name": "mydash",
+  "name": "mine",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ildevelop.github.io/myDash/",
+  "homepage": "https://ildevelop.github.io/mine/",
   "scripts": {
     "dev": "vite",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
